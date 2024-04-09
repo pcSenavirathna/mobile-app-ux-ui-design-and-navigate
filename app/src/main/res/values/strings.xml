@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TravelFind</string>
+    <string name="Onboard1_header">Beautiful is near you</string>
+    <string name="wrong">Take a look around you. There are many\nbeautiful place to visis.</string>
+    <string name="onboard1_content">Take a look around you. There are many\nbeautiful places to visit.</string>
+    <string name="getstart_btn">Let\'s Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="Onboard2_header"><![CDATA[Explore & Share]]></string>
+    <string name="wrong2"><![CDATA[Tag your places & share your\nthroughts with other travelers.]]></string>
+    <string name="onboard2_content"><![CDATA[Tag your favorite places & share your \nthoughts with other travelers.]]></string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome Message</string>
+    <string name="welcome_content">Please sign in to Application Name or \ncreate your account.</string>
+    <string name="main">E=Mail</string>
+    <string name="hey">Hey There</string>
+    <string name="hey_content">Please tell us about yourself. We won\'t\nshare any of your personal data.</string>
+    <string name="nm">Name</string>
+    <string name="sname">Surname</string>
+    <string name="cr_pwd">Create a Password</string>
+    <string name="wrong3">our password must include at least one\nsymble ad uppercase letter.</string>
+    <string name="pwd_content">Your password must include at least one \nsymbol and uppercase letter</string>
+    <string name="lowcase">One lowercase character</string>
+    <string name="upcase">One uppercase character</string>
+    <string name="special">One special character</string>
+    <string name="charc8">8 characters minimum</string>
+    <string name="terms">Before you Begin</string>
+    <string name="terms_content">Thank you for using our products and \nservices. This service will help you \nonly if you are located in Sri Lanka. \nThis service is most useful for those \nlooking for beautiful areas, beautiful \nplaces. These services are provided by \nSenavirathna (PVT) LTD, a private entity.\n\n\nBy using our services, you agreeing\nto these terms. Please read them \ncarefully.</string>
+    <string name="accept">Accept</string>
+    <string name="near">Nearby Places</string>
+    <string name="see">See All</string>
+    <string name="populer">Populer places</string>
+    <string name="stng">Setting</string>
+    <string name="setin">Settings</string>
+    <string name="stng_content">View and edit your setting</string>
+    <string name="noti">"            Notifications"</string>
+    <string name="myfav">"            My Favorite List"</string>
+    <string name="edit">"            Edit Profile"</string>
+    <string name="psswrd">"            Change Password"</string>
+    <string name="about">"            About Us"</string>
+    <string name="privacy">"            Privacy Policy"</string>
+    <string name="logout">"            Log Out"</string>
+    <string name="active">Active since- Mar,2024</string>
+    <string name="pName">Prasad Chandima</string>
+    <string name="psonal_lable">Personal Information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

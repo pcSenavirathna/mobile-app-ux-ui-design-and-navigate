@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_size">24dp</dimen>
+    <dimen name="getstartbtn_radius">10dp</dimen>
+    <dimen name="btn_height">60dp</dimen>
+    <dimen name="btn_width">350dp</dimen>
+    <dimen name="textsize">20dp</dimen>
+    <dimen name="textSize">18dp</dimen>
+    <dimen name="textbar_width">355sp</dimen>
+    <dimen name="textbar_heidht">40sp</dimen>
+    <dimen name="imagenamesize">16sp</dimen>
+    <dimen name="card">393dp</dimen>
+</resources>
